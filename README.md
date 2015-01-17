@@ -62,10 +62,7 @@ W kolecji 'anagramy' sa pary - posortowane litery - slowa zawierajace te litery 
 { "_id" : "aerrst", "value" : 5 }
 { "_id" : "aerstt", "value" : 5 }
 { "_id" : "belstu", "value" : 5 }
-{ "_id" : "eilnst", "value" : 5 }
-{ "_id" : "eimrst", "value" : 5 }
-{ "_id" : "eiprst", "value" : 5 }
-{ "_id" : "elrstu", "value" : 5 }
+
 ```
 
 
