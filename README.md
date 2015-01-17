@@ -17,7 +17,10 @@ Zaimportowano:
 > db.slowa.count()
 8199
 ```
+#Historyjka NoSQL
 ![](https://cloudcelebrity.files.wordpress.com/2013/09/sql-nosql.png)
+
+--------------------------------
 Anagramy uzyskałem z użyciem mapreduce:
 ```sh
 db.slowa.mapReduce(
